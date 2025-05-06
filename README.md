@@ -20,4 +20,4 @@ The conflict occurred when merging the `feature-branch` into `main`. Both branch
 I reviewed the conflicting changes and decided to combine them logically. The changes from both branches were integrated into one final version of the file, and the conflict markers were removed.
 
 ### Commit:
-After resolving the conflict, I committed the changes and pushed them to the `main` branch. The commit message was: `"Resolved merge conflict in README.md"`.
+After resolving the conflict, I committed the changes and pushed them to the `main` branch. The commit message was: `"Resolved merge conflict in index.html"`.
